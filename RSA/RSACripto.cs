@@ -15,7 +15,7 @@ namespace RSACripto
     public class RSACriptoGrafia
     {
         private string TamanioLlave = string.Empty;
-
+            
         private string ArmarLlavePrivada = string.Empty;
         private string ArmarLlavePublica = string.Empty;
         public enum TamanioLlaves
